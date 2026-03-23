@@ -48,4 +48,3 @@ def ex8():
      dezena = (num // 10) % 10
      centena = num // 100 
      print(unidade,dezena,centena)
-ex8()
