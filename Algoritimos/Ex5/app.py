@@ -30,4 +30,3 @@ def ex2():
         else:
             num -= num % 4
             print(num)
-ex2()
